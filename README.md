@@ -1,6 +1,6 @@
 ![MasterHead](https://raw.githubusercontent.com/muhammadnurulahsan/muhammadnurulahsan/main/ahsan.gif)
 <h1 align="center">Hi 👋, I'm Swopnajit Sahoo</h1>
-<h3 align="center">A passionate Java Full-Stack Developer & MERN Stack Developer from India.</h3>
+<h3 align="center">A passionate Java Full-Stack & MERN Stack Developer from India.</h3>
 <img align="right" alt="Coding" width="400" src"https://cdn.dribbble.com/users/116207/screenshots/3848914/programmer.gif">
 
 
@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/swopnajits" target="blank"><img src="https://img.shields.io/twitter/follow/swopnajits?logo=twitter&style=for-the-badge" alt="swopnajits" /></a> </p>
 
-- 🔭 I’m currently working on **E-Commerce Website.**
+- 🔭 I’m currently working on a projrct **E-Commerce Website.**
 
 - 🌱 I’m currently learning **MERN Stack Development.**
 
